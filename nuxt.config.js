@@ -31,6 +31,7 @@ export default {
   ],
 
   components: true,
+
   /*
   ** Nuxt.js dev-modules
   */

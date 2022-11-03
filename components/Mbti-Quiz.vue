@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1></h1>
-    <Mbti-Button />
+    <Mbti-Button styleType="blue" />
     <Mbti-Progress />
   </div>
 </template>
