@@ -3,8 +3,8 @@
   <main v-if="page === 0">
     <img src="" alt="개발자 이미지">
     <h1>나에게 어울리는 개발자 스타일 찾기!</h1>
-    <h2>나에게 어울리는 개발자는 무엇일까요?</h2>
-    <Mbti-Button text="테스트 시작!" styleType="blue" />
+    <h2>내가 개발자가 된다면 어떤게 좋을까요?</h2>
+    <Mbti-Button text="테스트 시작!" />
   </main>
   <!-- 퀴즈 페이지 -->
   <main v-else></main>
